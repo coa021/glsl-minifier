@@ -12,8 +12,6 @@ cmake --build .
 ```
 
 ## Usage
-
-Usage:  
 Minify:  
 ```glsl_minifier minify <input.glsl> [output.glsl] [options]```  
 Render:  
